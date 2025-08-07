@@ -17,7 +17,7 @@ body, html {
 
 .sidebar {
   flex: 1;
-  background-image: url('/images/Qt.jpg'); 
+  background-image: url('./images/Qt.jpg'); 
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;   
